@@ -28,7 +28,7 @@ PASSO 2 — CRIAR O BANCO DE DADOS
 ─────────────────────────────────
 Abra o pgAdmin ou o terminal psql e execute:
 
-  CREATE DATABASE "LojaMaterial";
+  CREATE DATABASE "LojaMaterialConstrucao";
 
 Depois selecione o banco LojaMaterial e execute o arquivo:
   sql/loja_material.sql
